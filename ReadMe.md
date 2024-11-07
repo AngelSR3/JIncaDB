@@ -1,7 +1,7 @@
-###### 🛸AsmvProject🛸
+###### 🛸Asmv & AngelDev🛸
 
 ---
-# Bienvenido a UniversityDB 👽️
+# Bienvenido a JincaDB 🏡
 ⚠️➡︎ Base de datos totalmente funcional para la gestión y manejo de datos --> JincaDB
 
 ---
@@ -20,14 +20,6 @@
 ## Instalación📂
 > [!TIP]
 >Sigue cada uno de los siguientes pasos sin saltarte ningúno para la correcta instalación
-#### Rquisitos minimos para la ejecución
-- Windows 8 o superior 64-bits
-- macOS Mojave (10.14) o superior
-- Distribuciones de Linux como Ubuntu 20.04 y posteriores (64-bit)
-- Procesador: 1 GHz o más rápido
-- RAM: 4 GB (se recomienda 8 GB o más)
-- Espacio en disco: 1 GB de espacio libre
-- CONEXIÓN A INTERNET
 
 #### Correcta Instalación
 - Descarga o clona el actual repositorio
@@ -107,6 +99,7 @@ WHERE id_producto IN (
 - Realizó 50 consultas
 - Creó 20 procedimientos
 - Creó 10 funciones
+- Creó 20 triggers
 - Ajustó ReadMe
 ---
 ## Tecnologías📱
